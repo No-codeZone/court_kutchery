@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # court_kutchery_app
 
 A new Flutter project.
@@ -14,3 +15,6 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
+=======
+# court_kutchery
+>>>>>>> 9488ac89119b1378bf7a08cd933c98cca13900c3
